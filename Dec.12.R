@@ -1,3 +1,5 @@
+### This is the latest version of the first store
+
 ############## Pre-function setting
 
 ####### function for choosing shopping list for each customer randomly
