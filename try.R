@@ -1,3 +1,4 @@
+#this is video for enlarge store
 library(shiny)
 #Define UI for application
 ui3 <-fluidPage(
